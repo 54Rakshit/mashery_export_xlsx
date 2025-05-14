@@ -2,7 +2,7 @@ const axios = require('axios');
 const XLSX = require('xlsx');
 const _ = require('lodash');
 
-const API_TOKEN = 'Bearer gwq38mjbzq6gpw597nn9rbk2'; // Replace with your token
+const API_TOKEN = 'Bearer YOUR_API_TOKEN'; // Replace with your token
 const headers = {
   'Accept': 'application/json',
   'Content-Type': 'application/json',
